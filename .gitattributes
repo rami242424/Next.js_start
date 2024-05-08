@@ -1,0 +1,2 @@
+# Declare files that are managed by Git LFS
+*.node filter=lfs diff=lfs merge=lfs -text
